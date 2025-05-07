@@ -1,4 +1,4 @@
-# FamilyGoogleCalendar
+# Family Google Calendar
 
 ## Bill of Materials
 | Item              | Link | Price |
