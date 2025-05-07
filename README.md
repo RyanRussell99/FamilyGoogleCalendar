@@ -1,2 +1,10 @@
 # FamilyGoogleCalendar
-Instructions and software to create a family calendar that utilizes Google Calendar on a RaspberryPi
+
+## Bill of Materials
+| Item              | Link | Price |
+| :---------------- | :------: | ----: |
+| RaspberryPi Model 4 B |   [Buy Here](https://www.microcenter.com/product/637834/raspberry-pi-4-model-b?rd=1)   | 54.99 |
+
+## Hardware Construction
+
+## Software Installation
